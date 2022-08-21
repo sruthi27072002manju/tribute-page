@@ -1,3 +1,3 @@
 # Build-A-Tribute-Page
- Responsive Web Design Certification Project - "Build A Tribute Page"
+ Responsive Web Design internship - "Build A Tribute Page"
 
